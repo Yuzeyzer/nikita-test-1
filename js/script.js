@@ -2,10 +2,10 @@
 // let col = document.getElementsByClassName('col-2')[0];
 // // let active = document.getElementsByClassName('active');
 // box.addEventListener("click", function(event){
-//     let next = col.nextElementSibling.classList.add('active');
+//         let next = col.nextElementSibling.classList.add('active');
 //         if (box.classList.contains('active')){
-//             box.classList.remove('active');
-//             console.log("example");
+//         box.classList.remove('active');
+//         console.log("example");
 //         }
 // console.log(event)
 //            // let toRemove = document.querySelector('active');
